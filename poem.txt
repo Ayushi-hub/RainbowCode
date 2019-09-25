@@ -1,2 +1,5 @@
 Rainbow
 VibYor
+green
+yelow
+violet
